@@ -7,6 +7,17 @@ Simple Open-Source __UNDETECTED__ Valorant instalocker.
 
 Head over the [release tab](https://github.com/KamiHateOmg/ValorantInstalocker/releases/tag/1.0.0.0) and download the first and only release.
 
+# From PIP
+
+Enter these commands in a command prompt :
+```bash
+pip install instalocker
+```
+and when you want to use it :
+```bash
+instalocker
+```
+
 # From Source
 
 Open a cmd in a folder and copy paste these commands : 

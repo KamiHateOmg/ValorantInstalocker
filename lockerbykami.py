@@ -42,7 +42,7 @@ mt(titre)
 
 os.system('cls')
 
-intro = """"
+intro = """
 
 
  ▄▄▄▄ ▓██   ██▓    ██ ▄█▀▄▄▄       ███▄ ▄███▓ ██▓

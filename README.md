@@ -5,7 +5,7 @@ Simple Open-Source __UNDETECTED__ Valorant instalocker.
 
 # From Binaries
 
-Head over the [release tab]() and download the first and only release.
+Head over the [release tab](https://github.com/KamiHateOmg/ValorantInstalocker/releases/tag/1.0.0.0) and download the first and only release.
 
 # From Source
 

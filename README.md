@@ -1,6 +1,7 @@
 # ValorantInstalocker
 Simple Open-Source __UNDETECTED__ Valorant instalocker.
 
+[![Downloads](https://static.pepy.tech/badge/instalocker)](https://pepy.tech/project/instalocker)
 # Installation
 
 ## From Binaries

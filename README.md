@@ -10,6 +10,8 @@ Head over the [release tab](https://github.com/KamiHateOmg/ValorantInstalocker/r
 
 ## From PIP
 
+# -PIP Is not working-
+
 Enter these commands in a command prompt :
 ```bash
 pip install instalocker

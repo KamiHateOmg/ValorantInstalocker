@@ -1,3 +1,5 @@
+# OUTDATED
+
 # ValorantInstalocker
 Simple Open-Source __UNDETECTED__ Valorant instalocker.
 
